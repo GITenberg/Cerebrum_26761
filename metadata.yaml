@@ -1,0 +1,35 @@
+_repo: Cerebrum_26761
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Birmingham, Lloyd
+    gutenberg_agent_id: '26433'
+    url: http://www.gutenberg.org/2009/agents/26433
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Teichner, Albert
+    alias: Teichner, Albert R.
+    gutenberg_agent_id: '24789'
+    url: http://www.gutenberg.org/2009/agents/24789
+description: For thousands of years the big brain served as amaster switchboard for
+  the thoughtsand emotions of humanity. Now the central mind was showing signs of
+  decay ... and men went mad.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-10-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Telepathy -- Fiction'
+title: Cerebrum
+url: http://www.gutenberg.org/ebooks/26761
